@@ -1,0 +1,203 @@
+html{
+
+
+
+}
+
+button{
+
+    width:0%;
+    height:0%;
+    margin:0%;
+
+
+}
+
+body{
+
+    width:99%;
+    height:100%;
+    margin:0px;
+    background-color: #ffffe6;
+
+
+
+}
+
+
+
+
+
+
+/*==================================================*/
+
+#navBar{
+
+    width:100%;
+    height:80px;
+    display: block;
+    background-color: #ffdd99;
+    margin-left:.5%
+
+
+
+}
+
+.navButton{
+
+    width:20%;
+    height:45%;
+
+
+
+}
+
+#navButton1{
+
+    margin-left: 20%;
+
+
+}
+
+#navButton2{
+
+
+}
+
+#navButton3{
+
+
+}
+
+#Title{
+
+    text-align:center;
+    margin-top: .2%;
+
+}
+
+
+
+
+/*==================================================*/
+/* body */
+
+#mainDiv{
+
+    width:92%;
+    height:1000px;
+    background-color: blanchedalmond;
+    display: inline-block;
+    margin-left: 4.5%;
+
+
+
+}
+
+#article1{
+
+    width:70%;
+    color:black;
+    height: 500px;
+    background-color: black;
+    display: inline-block;
+    margin-top:2%;
+    float: left;
+
+
+
+}
+
+
+#imageBox{
+
+    display: inline-block;
+    width: 5%;
+    height:500px;
+    background-color: greenyellow;
+    margin-top:2%;
+    float: right;
+
+}
+
+
+#img1 img{
+    display: inline;
+    width: 16.5%;
+    height: 250px;
+    margin-top: 2%;
+    margin-bottom: 0px;
+
+}
+
+#img2 img{
+    display: inline;
+    width: 16.5%;
+    height: 246px;
+    margin-top: 0px;
+}
+
+#img3 img{
+
+    display: inline;
+    width: 13%;
+    height: 500px;
+    float: right;
+    margin-top: -29%;
+    position: static;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*==================================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*==================================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*==================================================*/
+/*footer*/
+
+#footer{
+
+    width:100%;
+    height:50px;
+    background-color: black;
+    display: inline-block;
+
+
+}
